@@ -1,0 +1,15 @@
+{
+    "id": 123046729,
+    "name": "Trainride vs Trex",
+    "author": "Sheller",
+    "creators": ["Sheller"],
+    "verifier": "Sheller",
+    "verification": "",
+    "records": [
+        {
+            "user": "Perorbem",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
