@@ -3,17 +3,12 @@
     "name": "Godice Challenge",
     "author": "Spiderwavee",
     "creators": ["Spiderwavee"],
-    "verifier": "Spiderwavee",
+    "verifier": "GreenMachine",
     "verification": "",
     "percentToQualify": "100",
     "records": [
         {
             "user": "Perorbem",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "GreenMachine",
             "percent": 100,
             "hz": 240
         }
