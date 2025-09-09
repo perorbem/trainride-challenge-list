@@ -5,6 +5,7 @@
     "creators": ["Sheller"],
     "verifier": "Sheller",
     "verification": "",
+    "percentToQualify": "100",
     "records": [
         {
             "user": "Perorbem",
