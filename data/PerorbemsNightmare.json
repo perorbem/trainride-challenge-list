@@ -8,11 +8,6 @@
     "percentToQualify": "100",
     "records": [
         {
-            "user": "GreenMachine",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Perorbem",
             "percent": 100,
             "hz": 240
