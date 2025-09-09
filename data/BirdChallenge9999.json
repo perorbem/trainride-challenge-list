@@ -7,6 +7,8 @@
     "verification": "",
     "percentToQualify": "100",
     "records": [
-        
+        "user": "Perorbem",
+        "percent": 100,
+        "hz": 240
     ]
 }
