@@ -7,6 +7,10 @@
     "verification": "https://youtu.be/OMAvkk0fGYE?si=uwz3eeinq2VIkNuW",
     "percentToQualify": "100",
     "records": [
-  
+        {
+            "user": "ywuChaos",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
