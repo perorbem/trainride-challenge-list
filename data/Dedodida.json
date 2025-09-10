@@ -21,6 +21,11 @@
             "user": "Perorbem",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Godice",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
