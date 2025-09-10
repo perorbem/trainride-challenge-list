@@ -100,6 +100,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        The level must be made specifically for the trainride challenge list
+                    </p>
+                    <p>
                         Achieved the record without using hacks (CBF is allowed)
                     </p>
                     <p>
@@ -122,6 +125,12 @@ export default {
                     </p>
                     <p>
                         Level must meet decent quality standards (complete slop/low effort levels will not be accepted)
+                    </p>
+                    <p>
+                        None of the gameplay can require over 12cps (to make sure its doable the verification may not go over 12cps in any part)
+                    </p>
+                    <p>
+                        At least 80% of the gameplay must be original (not taken from another level)
                     </p>
                 </div>
             </div>
