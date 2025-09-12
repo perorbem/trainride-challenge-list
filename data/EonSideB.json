@@ -26,6 +26,11 @@
             "user": "GreenMachine",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Spiderwavee",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
