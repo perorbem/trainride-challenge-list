@@ -21,6 +21,11 @@
             "user": "RandomMonkey",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "GreenMachine",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
