@@ -7,5 +7,10 @@
     "verification": "",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "ywuChaos",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
