@@ -1,0 +1,21 @@
+{
+    "id": 126349902,
+    "name": "Wingdingers Sucks",
+    "author": "Godice",
+    "creators": ["Godice"],
+    "verifier": "Godice",
+    "verification": "https://www.youtube.com/watch?v=JP7dWo970MI",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Perorbem",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ywuChaos",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
