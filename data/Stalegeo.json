@@ -1,0 +1,16 @@
+{
+    "id": 126458736,
+    "name": "Stalegeo",
+    "author": "LazmGeo",
+    "creators": ["LazmGeo"],
+    "verifier": "LazmGeo",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Perorbem",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
