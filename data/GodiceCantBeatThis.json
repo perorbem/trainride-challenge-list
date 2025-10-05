@@ -1,0 +1,16 @@
+{
+    "id": 126749207,
+    "name": "GodiceCantBeatThis",
+    "author": "LazmGeo",
+    "creators": ["LazmGeo"],
+    "verifier": "LazmGeo",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Perorbem",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
